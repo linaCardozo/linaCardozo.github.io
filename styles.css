@@ -1,4 +1,12 @@
 /*
+    Revision realizada por Martin Galvan
+    -El codigo esta identado y es legible correctamente
+    -Las reglas CSS estan bien definidas y descrptivas
+    -Uso excelente de los selectores en CSS
+    -La consistencia del estilo se puede ver en toda la pagina
+*/
+
+/*
 Revisión hecha por Julián Jaimes
 
 Comentarios: El código está bien indentado y es legible.
@@ -10,6 +18,7 @@ La página es responsive.
 Creo que en la tipografía se debería haber usado un tipo de letra sin serifa para el contenido y el menú de navegación.
 Personalmente, no me gusta el menú de navegación, creo que sería mejor si fuera de extremo a extremo de la página.
 */
+
 * {
   box-sizing: border-box;
   margin: 0;
